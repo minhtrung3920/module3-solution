@@ -15,6 +15,7 @@ body {
   }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff;
+  overflow: hidden;
 }
   
 .navbar-brand h1 { /* Restaurant name */
